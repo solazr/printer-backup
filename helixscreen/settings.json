@@ -305,11 +305,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": -1,
+                  "col": 2,
                   "colspan": 1,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "active_spool",
-                  "row": -1,
+                  "row": 1,
                   "rowspan": 1
                 },
                 {
