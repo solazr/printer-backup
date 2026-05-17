@@ -415,6 +415,14 @@
                   "id": "bed_temperature",
                   "row": 1,
                   "rowspan": 1
+                },
+                {
+                  "col": 0,
+                  "colspan": 4,
+                  "enabled": true,
+                  "id": "temp_graph:1",
+                  "row": 2,
+                  "rowspan": 2
                 }
               ]
             }
