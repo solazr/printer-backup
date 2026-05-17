@@ -113,7 +113,7 @@
           "sensors": [
             "temperature_sensor mcu_temp"
           ],
-          "timestamp": "2026-05-17T03:54:04Z"
+          "timestamp": "2026-05-17T20:48:47Z"
         },
         "optional": []
       },
@@ -161,7 +161,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 2,
+                  "col": 4,
                   "colspan": 2,
                   "enabled": true,
                   "id": "tips",
