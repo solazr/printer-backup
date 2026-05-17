@@ -163,7 +163,7 @@
                 {
                   "col": 2,
                   "colspan": 2,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "tips",
                   "row": 0,
                   "rowspan": 2
