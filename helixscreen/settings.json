@@ -161,7 +161,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 4,
+                  "col": 3,
                   "colspan": 2,
                   "enabled": true,
                   "id": "tips",
