@@ -153,7 +153,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 0,
+                  "col": 4,
                   "colspan": 2,
                   "enabled": true,
                   "id": "print_status",
@@ -410,7 +410,7 @@
                 },
                 {
                   "col": 4,
-                  "colspan": 1,
+                  "colspan": 2,
                   "enabled": true,
                   "id": "bed_temperature",
                   "row": 1,
