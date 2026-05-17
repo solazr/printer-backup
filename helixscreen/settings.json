@@ -225,11 +225,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": -1,
+                  "col": 2,
                   "colspan": 1,
                   "enabled": false,
                   "id": "tool_switcher",
-                  "row": -1,
+                  "row": 2,
                   "rowspan": 1
                 },
                 {
@@ -415,14 +415,6 @@
                   "id": "bed_temperature",
                   "row": 1,
                   "rowspan": 1
-                },
-                {
-                  "col": 2,
-                  "colspan": 2,
-                  "enabled": true,
-                  "id": "temp_graph:1",
-                  "row": 1,
-                  "rowspan": 2
                 }
               ]
             }
