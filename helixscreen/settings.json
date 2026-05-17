@@ -409,11 +409,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 2,
+                  "col": 4,
                   "colspan": 1,
                   "enabled": true,
                   "id": "bed_temperature",
-                  "row": 3,
+                  "row": 1,
                   "rowspan": 1
                 }
               ]
