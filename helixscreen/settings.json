@@ -153,17 +153,17 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 0,
+                  "col": 2,
                   "colspan": 2,
                   "enabled": true,
                   "id": "print_status",
-                  "row": 2,
+                  "row": 0,
                   "rowspan": 2
                 },
                 {
                   "col": 3,
                   "colspan": 2,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "tips",
                   "row": 0,
                   "rowspan": 2
