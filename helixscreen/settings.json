@@ -249,11 +249,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 3,
+                  "col": 5,
                   "colspan": 1,
                   "enabled": true,
                   "id": "fan_stack",
-                  "row": 3,
+                  "row": 0,
                   "rowspan": 1
                 },
                 {
