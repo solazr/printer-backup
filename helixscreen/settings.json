@@ -415,6 +415,14 @@
                   "id": "bed_temperature",
                   "row": 1,
                   "rowspan": 1
+                },
+                {
+                  "col": 2,
+                  "colspan": 1,
+                  "enabled": true,
+                  "id": "fan_stack:1",
+                  "row": 2,
+                  "rowspan": 1
                 }
               ]
             }
