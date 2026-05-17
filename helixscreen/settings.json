@@ -150,30 +150,30 @@
                   "enabled": true,
                   "id": "printer_image",
                   "row": 0,
-                  "rowspan": 1
+                  "rowspan": 2
+                },
+                {
+                  "col": 0,
+                  "colspan": 2,
+                  "enabled": true,
+                  "id": "print_status",
+                  "row": 2,
+                  "rowspan": 2
                 },
                 {
                   "col": 2,
                   "colspan": 2,
                   "enabled": true,
-                  "id": "print_status",
-                  "row": 0,
-                  "rowspan": 1
-                },
-                {
-                  "col": 3,
-                  "colspan": 2,
-                  "enabled": false,
                   "id": "tips",
                   "row": 0,
                   "rowspan": 2
                 },
                 {
-                  "col": 4,
+                  "col": 2,
                   "colspan": 1,
                   "enabled": true,
                   "id": "temperature",
-                  "row": 0,
+                  "row": 2,
                   "rowspan": 1
                 },
                 {
@@ -201,11 +201,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 0,
+                  "col": -1,
                   "colspan": 1,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "network",
-                  "row": 3,
+                  "row": -1,
                   "rowspan": 1
                 },
                 {
@@ -233,11 +233,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 5,
+                  "col": -1,
                   "colspan": 1,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "led",
-                  "row": 2,
+                  "row": -1,
                   "rowspan": 1
                 },
                 {
@@ -249,11 +249,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 5,
+                  "col": -1,
                   "colspan": 1,
                   "enabled": true,
                   "id": "fan_stack",
-                  "row": 0,
+                  "row": -1,
                   "rowspan": 1
                 },
                 {
@@ -313,11 +313,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 4,
+                  "col": -1,
                   "colspan": 1,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "filament",
-                  "row": 3,
+                  "row": -1,
                   "rowspan": 1
                 },
                 {
@@ -401,19 +401,19 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 5,
+                  "col": -1,
                   "colspan": 1,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "notifications",
-                  "row": 3,
+                  "row": -1,
                   "rowspan": 1
                 },
                 {
-                  "col": 4,
+                  "col": 2,
                   "colspan": 1,
                   "enabled": true,
                   "id": "bed_temperature",
-                  "row": 1,
+                  "row": 3,
                   "rowspan": 1
                 }
               ]
