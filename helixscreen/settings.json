@@ -443,7 +443,7 @@
     "show_printer_switcher": false
   },
   "security": {
-    "auto_lock": true,
+    "auto_lock": false,
     "pin_hash": "1c3d8c1cc1f56cbf3d959af9878c999048f7fc032ac22e12c4f1c6643b6ba620"
   },
   "sound_theme": "default",
