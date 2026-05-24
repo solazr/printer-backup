@@ -13,7 +13,7 @@
   "display": {
     "bed_mesh_render_mode": 0,
     "dim_brightness": 30,
-    "dim_sec": 120,
+    "dim_sec": 60,
     "drm_device": "",
     "gcode_render_mode": 0,
     "rotate": 180,
