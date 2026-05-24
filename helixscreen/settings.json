@@ -1,6 +1,6 @@
 {
   "active_printer_id": "default",
-  "brightness": 100,
+  "brightness": 63,
   "calibration": {
     "pid_history": {
       "extruder": {
@@ -18,7 +18,7 @@
     "gcode_render_mode": 0,
     "rotate": 180,
     "rotation_probed": true,
-    "sleep_sec": 60,
+    "sleep_sec": 0,
     "time_format": 1,
     "timezone": "America/Chicago"
   },
