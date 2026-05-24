@@ -19,6 +19,7 @@
     "rotate": 180,
     "rotation_probed": true,
     "sleep_sec": 0,
+    "theme": "onedark",
     "time_format": 1,
     "timezone": "America/Chicago"
   },
