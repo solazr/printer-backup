@@ -37,6 +37,7 @@
       "swap_axes": false,
       "valid": true
     },
+    "debug_touches": true,
     "jitter_threshold": 5,
     "scroll_limit": 10,
     "scroll_throw": 25,
