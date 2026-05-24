@@ -13,12 +13,12 @@
   "display": {
     "bed_mesh_render_mode": 0,
     "dim_brightness": 30,
-    "dim_sec": 60,
+    "dim_sec": 30,
     "drm_device": "",
     "gcode_render_mode": 0,
     "rotate": 180,
     "rotation_probed": true,
-    "sleep_sec": 300,
+    "sleep_sec": 60,
     "time_format": 1,
     "timezone": "America/Chicago"
   },
