@@ -81,7 +81,7 @@
         "part": "output_pin fan0"
       },
       "filament_sensors": {
-        "master_enabled": false,
+        "master_enabled": true,
         "sensors": [
           {
             "enabled": true,
