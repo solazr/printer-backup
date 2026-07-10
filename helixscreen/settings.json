@@ -84,7 +84,7 @@
         "master_enabled": false,
         "sensors": [
           {
-            "enabled": true,
+            "enabled": false,
             "klipper_name": "filament_switch_sensor filament_sensor",
             "role": "runout",
             "type": "switch"
