@@ -53,6 +53,18 @@
   "motion": {
     "jog_mode": 2
   },
+  "print_start_history": {
+    "entries": [
+      {
+        "phases": {
+          "9": 29
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786406019,
+        "total": 52
+      }
+    ]
+  },
   "printers": {
     "default": {
       "default_macros": {
@@ -451,7 +463,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.4129287600517273
+        "heat_rate": 0.2453250288963318
       }
     }
   },
