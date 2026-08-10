@@ -39,7 +39,7 @@
       "valid": true
     },
     "debug_touches": true,
-    "jitter_threshold": 11,
+    "jitter_threshold": 20,
     "scroll_limit": 10,
     "scroll_throw": 25,
     "touch_device": ""
