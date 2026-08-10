@@ -8,7 +8,7 @@
       }
     }
   },
-  "config_version": 17,
+  "config_version": 21,
   "dark_mode": true,
   "display": {
     "bed_mesh_render_mode": 0,
@@ -16,6 +16,8 @@
     "dim_sec": 30,
     "drm_device": "",
     "gcode_render_mode": 0,
+    "gpu_3d_blocked": false,
+    "gpu_blur_blocked": false,
     "rotate": 180,
     "rotation_probed": true,
     "sleep_sec": 60,
@@ -35,6 +37,7 @@
       "d": -0.00371563620865345,
       "e": 1.140700340270996,
       "f": -23.236934661865234,
+      "recheck_pending": false,
       "swap_axes": false,
       "valid": true
     },
@@ -46,9 +49,6 @@
     "touch_device": ""
   },
   "language": "en",
-  "led": {
-    "selected_strips": null
-  },
   "log_path": "/tmp/helixscreen.log",
   "motion": {
     "jog_mode": 2
@@ -125,15 +125,7 @@
         "hotend": "extruder"
       },
       "leds": {
-        "color_presets": null,
-        "last_brightness": null,
-        "last_color": null,
-        "last_white": null,
-        "led_on_at_start": null,
-        "macro_devices": null,
         "selected": [],
-        "selected_strips": null,
-        "startup_brightness": null,
         "strip": ""
       },
       "moonraker_api_key": false,
@@ -433,9 +425,7 @@
         }
       },
       "printer_name": "Ender3V3KE-FEE8",
-      "probe_sensors": {
-        "sensors": null
-      },
+      "probe_sensors": {},
       "temp_sensors": {
         "bed": "heater_bed",
         "hotend": "extruder"
