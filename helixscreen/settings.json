@@ -57,6 +57,24 @@
     "entries": [
       {
         "phases": {
+          "2": 10,
+          "9": 27
+        },
+        "temp_bucket": 1,
+        "timestamp": 1786502061,
+        "total": 429
+      },
+      {
+        "phases": {
+          "2": 15,
+          "9": 27
+        },
+        "temp_bucket": 1,
+        "timestamp": 1788493837,
+        "total": 159
+      },
+      {
+        "phases": {
           "9": 29
         },
         "temp_bucket": 2,
@@ -74,21 +92,12 @@
       },
       {
         "phases": {
-          "2": 10,
+          "2": 31,
           "9": 27
         },
-        "temp_bucket": 1,
-        "timestamp": 1786502061,
-        "total": 429
-      },
-      {
-        "phases": {
-          "2": 15,
-          "9": 27
-        },
-        "temp_bucket": 1,
-        "timestamp": 1788493837,
-        "total": 159
+        "temp_bucket": 2,
+        "timestamp": 1788494086,
+        "total": 63
       }
     ]
   },
