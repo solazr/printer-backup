@@ -499,6 +499,7 @@
       }
     }
   },
+  "wifi_enabled": true,
   "wifi_expected": true,
   "wizard_completed": true
 }
