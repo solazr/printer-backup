@@ -360,7 +360,7 @@
                 {
                   "col": 2,
                   "colspan": 1,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "active_spool",
                   "row": 1,
                   "rowspan": 1
@@ -414,7 +414,7 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 2,
+                  "col": 0,
                   "colspan": 2,
                   "enabled": true,
                   "id": "clock",
