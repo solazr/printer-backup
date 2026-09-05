@@ -200,7 +200,7 @@
                 {
                   "col": 0,
                   "colspan": 2,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "printer_image",
                   "row": 0,
                   "rowspan": 2
