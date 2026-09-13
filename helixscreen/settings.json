@@ -138,6 +138,15 @@
         "timestamp": 1788650628,
         "total": 80,
         "window": 1
+      },
+      {
+        "phases": {
+          "9": 33
+        },
+        "temp_bucket": 2,
+        "timestamp": 1789337336,
+        "total": 79,
+        "window": 1
       }
     ]
   },
