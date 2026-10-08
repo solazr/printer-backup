@@ -176,6 +176,16 @@
         "timestamp": 1791415526,
         "total": 66,
         "window": 1
+      },
+      {
+        "phases": {
+          "2": 50,
+          "9": 32
+        },
+        "temp_bucket": 2,
+        "timestamp": 1791426581,
+        "total": 87,
+        "window": 1
       }
     ]
   },
