@@ -199,6 +199,9 @@
   },
   "printers": {
     "default": {
+      "bed_occupancy": {
+        "last_occupied": "{\"filename\":\"nameplates.gcode\",\"job_id\":\"000089\",\"object_height\":16.0,\"start_time\":1795485336.2998145}"
+      },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
         "load_filament": {
@@ -434,7 +437,7 @@
   },
   "tour": {
     "completed": true,
-    "last_seen_version": 1
+    "last_seen_version": 2
   },
   "ui": {},
   "wifi_country_last_seen": "GB",
