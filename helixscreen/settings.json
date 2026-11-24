@@ -23,7 +23,7 @@
     "screensaver_levels": {
       "hyperspace": {
         "board": "fbdev/2c/2400bm/480x272/16bpp",
-        "level": 1,
+        "level": 2,
         "too_heavy": false,
         "version": "1.1.0 (e82a1bb)"
       }
