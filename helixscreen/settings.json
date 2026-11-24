@@ -20,7 +20,7 @@
     "gpu_blur_blocked": false,
     "rotate": 180,
     "rotation_probed": true,
-    "screensaver_type": "starfield",
+    "screensaver_type": "bounce",
     "sleep_sec": 0,
     "theme": "onedark",
     "time_format": 1,
