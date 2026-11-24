@@ -1,0 +1,2 @@
+sysv-chmod:/etc/init.d/S99start_app
+sysv-created:/etc/init.d/S99creality-backend
