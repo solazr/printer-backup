@@ -1,6 +1,6 @@
 {
   "active_printer_id": "default",
-  "brightness": 63,
+  "brightness": 10,
   "calibration": {
     "pid_history": {
       "extruder": {
@@ -20,7 +20,7 @@
     "gpu_blur_blocked": false,
     "rotate": 180,
     "rotation_probed": true,
-    "screensaver_type": "flipclock",
+    "screensaver_type": "maze",
     "sleep_sec": 0,
     "theme": "onedark",
     "time_format": 1,
