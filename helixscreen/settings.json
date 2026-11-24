@@ -1,6 +1,6 @@
 {
   "active_printer_id": "default",
-  "brightness": 64,
+  "brightness": 53,
   "calibration": {
     "pid_history": {
       "extruder": {
