@@ -31,22 +31,26 @@
   },
   "input": {
     "calibration": {
-      "a": 1.0873026847839355,
-      "b": 0.011733482591807842,
-      "c": -21.183406829833984,
-      "d": -0.007356707006692886,
-      "e": 1.1366112232208252,
-      "f": -19.254409790039063,
+      "a": 1.076923131942749,
+      "b": 0.06923077255487442,
+      "c": -24.976924896240234,
+      "d": -0.0,
+      "e": 1.1285713911056519,
+      "f": -17.099998474121094,
       "recheck_pending": false,
+      "rotation": 180,
       "swap_axes": false,
-      "valid": false
+      "valid": true
     },
     "debug_touches": true,
     "jitter_threshold": 8,
     "scroll_guard": true,
     "scroll_limit": 13,
     "scroll_throw": 25,
-    "touch_device": ""
+    "touch_device": "",
+    "touch_range": {
+      "valid": false
+    }
   },
   "language": "en",
   "log_path": "/tmp/helixscreen.log",
