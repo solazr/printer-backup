@@ -221,7 +221,7 @@
     "default": {
       "bed_occupancy": {
         "cleared": "{\"filename\":\"\",\"job_id\":\"00008A\",\"object_height\":0.0,\"start_time\":1795584009.8956728}",
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"Benchmarks/Benchy.gcode\",\"job_id\":\"00008B\",\"object_height\":47.9,\"start_time\":1795636562.8305104}",
         "outlines": "{\"filename\":\"Benchmarks/Benchy.gcode\",\"objects\":[[[80.0,94.5],[140.0,94.5],[140.0,125.5],[80.0,125.5]]]}"
       },
       "default_macros": {
@@ -303,20 +303,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 1.7825000000001845
+            "used_h": 1.8788888888890884
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 1.7825000000001845
+            "used_h": 1.8788888888890884
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 1.7825000000001845
+            "used_h": 1.8788888888890884
           }
         },
-        "total_h": 1.7825000000001845
+        "total_h": 1.8788888888890884
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
