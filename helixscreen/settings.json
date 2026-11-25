@@ -76,16 +76,6 @@
     "entries": [
       {
         "phases": {
-          "HOMING": 15,
-          "PURGING": 33
-        },
-        "temp_bucket": 2,
-        "timestamp": 1791691801,
-        "total": 54,
-        "window": 1
-      },
-      {
-        "phases": {
           "HOMING": 55
         },
         "temp_bucket": 2,
@@ -212,6 +202,17 @@
         "temp_bucket": 2,
         "timestamp": 1795584066,
         "total": 55,
+        "window": 1
+      },
+      {
+        "heating": 66,
+        "phases": {
+          "HOMING": 8,
+          "PURGING": 11
+        },
+        "temp_bucket": 2,
+        "timestamp": 1795636649,
+        "total": 86,
         "window": 1
       }
     ]
@@ -449,7 +450,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.32538411021232605
+        "heat_rate": 0.2809188663959503
       },
       "heater_bed": {
         "heat_rate": 5.454518795013428
